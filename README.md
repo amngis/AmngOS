@@ -1,3 +1,3 @@
 # AmngOS
-An Operation System \n
+An Operation System \\\
 There is no source code now because I haven't write it now!
